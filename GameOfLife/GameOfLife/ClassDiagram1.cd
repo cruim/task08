@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameOfLife.AlternativeConwaysGameOfLife" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlternativeConwaysGameOfLife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLife.AlternativeModel" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAEAAAAQAAAAAAAAAAAAAAAAACAAADAAAAA=</HashCode>
+      <FileName>AlternativeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLife.ConsoleEx" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ConsoleEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLife.SortOfGame" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Menu\SortOfGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLife.Menu" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAABgAAAAAQAAAAAACAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Menu\SortOfGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLife.Element" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAQAAAAABAAAAAAAAAAAAAAACAgFAAA=</HashCode>
+      <FileName>Menu\SortOfGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOfLife.Start" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Start.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConwaysGameOfLife" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConwaysGameOfLife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAEAAAAQAAAAAAAAAAAAAAAAACAAADAAAAA=</HashCode>
+      <FileName>Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuleSet" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAACAAgAEAAAAAAAAAAAAAAAAQBA=</HashCode>
+      <FileName>RuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="GameOfLife.CommandHandler" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\SortOfGame.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
